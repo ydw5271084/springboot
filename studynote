@@ -1,0 +1,6 @@
+
+ResponseBody:返回Restful内容，没有的时候，进行跳转
+RestController:默认追加ResponseBody
+PathVariable
+
+日志输出
