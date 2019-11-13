@@ -4,3 +4,19 @@ RestController:默认追加ResponseBody
 PathVariable
 
 日志输出
+1、@SpringBootApplication = @EnableAutoConfiguration + @ComponentScan
+2、@ResponseBody：返回Restful内容，不使用的时候表示跳转
+3、@RestController：如果每个功能返回Restful内容，试用该注解
+4、@PathVariable：从URL中解析参数
+5、自动配置注解
+6、自定义banner
+7、全局配置文件
+8、starter
+9、获取自定义配置的值
+10、类型安全的配置
+11、profile
+12、日志管理
+13，配置开发者模式
+14，访问静态资源
+15，自定义消息转换器
+16，fastJson配置
